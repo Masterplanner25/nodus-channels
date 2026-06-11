@@ -10,7 +10,7 @@ protocol.
 
 No required external dependencies — pure stdlib.
 
-> **Status:** v0.1.0 — prepared, not yet published.
+> **Status:** v0.1.0 — published on [PyPI](https://pypi.org/project/nodus-channels/).
 
 ---
 
